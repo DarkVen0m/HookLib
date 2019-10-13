@@ -1,0 +1,11 @@
+*.class
+*.log
+.idea/
+*.iml
+/classes/
+/build/
+/run/
+/libs/
+.gradle/
+gradle.properties
+/TestProject/
